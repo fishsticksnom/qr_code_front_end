@@ -6,3 +6,14 @@
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--light-gray);
+  position: relative;
+  margin: 0;
+  min-height: 100vh;
+}
+
