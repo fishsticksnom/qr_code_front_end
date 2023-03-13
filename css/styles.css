@@ -57,3 +57,10 @@ img {
   width: 80%;
 }
 
+.text-container p {
+  color: var(--grayish-blue);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  width: 80%;
+}
