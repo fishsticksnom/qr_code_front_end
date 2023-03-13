@@ -26,3 +26,14 @@ body {
   max-width: 340px;
 }
 
+.image-container {
+  margin-bottom: 25px;
+  margin-top: 18px;
+  width: 90%;
+}
+
+img {
+  border-radius: 10px;
+  width: 100%;
+}
+
